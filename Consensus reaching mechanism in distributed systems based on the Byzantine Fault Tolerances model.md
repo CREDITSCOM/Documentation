@@ -6,6 +6,9 @@ The key requirements for the head node and trusted nodes is the availability of 
 Each node of the network sends the last block hash available at this node to the previous round node by which the last block is recorded on a blockchain (see the chart below). A certain amount of time is spared for this process, and all nodes from which no hash is received in this time interval drop out of the competition for eligibility to participate in the consensus procedure (being filtered out by node capacity). The node receiving these hashes compares them with the hash of the block recorded by the receiving node during the previous round. This is followed by cutting off all nodes sending an unmatched hash. Accordingly, any node with an outdated ledger is unable to become the head node or a trusted node for the next round.
 
 
+&nbsp; 
+
+
 
 ![Tab1](https://b.radikal.ru/b13/1805/64/3fea64a9d228.jpg)
 
