@@ -51,7 +51,6 @@ The second round of exchange is followed by the generation of the final decision
 
 **Phase 7.** 
 
-&nbsp;
 The previous phase is followed by the generation of an approved only transaction vector at each trusted node, with the vector coinciding at each honest node. It is, in fact, a finished block to be recorded onto a ledger with trustworthy transactions only.
 
 &nbsp;
@@ -60,7 +59,11 @@ The previous phase is followed by the generation of an approved only transaction
 
 *Protection against ledger recording by a malicious node*
 
-**Phase 8.** A new block will be recorded onto a ledger by one of the trusted nodes which makes a decision on the block that is identical with most of other nodes (reliably honest node). The procedure for intercepting betrayers from among trusted nodes is performed by verifying the outcome of decision-making during Phase 6. All nodes whose decisions are mismatched with the majority decision are removed from the list of trusted nodes which can potentially record a new block onto a ledger. The remaining list will be identical at all honest nodes. Any node is randomly selected from the remaining nodes.
+**Phase 8.** 
 
-&nbsp;
-**Phase 9.** The node selected during the previous phase generates a hash of the new block, records the new block onto a ledger, and sends the new block to all nodes system-wide. Then a new round begins.
+A new block will be recorded onto a ledger by one of the trusted nodes which makes a decision on the block that is identical with most of other nodes (reliably honest node). The procedure for intercepting betrayers from among trusted nodes is performed by verifying the outcome of decision-making during Phase 6. All nodes whose decisions are mismatched with the majority decision are removed from the list of trusted nodes which can potentially record a new block onto a ledger. The remaining list will be identical at all honest nodes. Any node is randomly selected from the remaining nodes.
+
+
+**Phase 9.** 
+
+The node selected during the previous phase generates a hash of the new block, records the new block onto a ledger, and sends the new block to all nodes system-wide. Then a new round begins.
