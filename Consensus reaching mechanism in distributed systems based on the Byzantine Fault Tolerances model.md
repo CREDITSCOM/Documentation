@@ -16,19 +16,19 @@ Each node of the network sends the last block hash available at this node to the
 *Transaction voting procedure*
 ++Phase 3++ The transactions generated in the system while the head node and trusted nodes are being selected (during Phases 1 and 2) are sent from all nodes to the head node *(to be revised since an integrated transaction acceptance pool should be in place for the process synchronization purposes).* The head node generates a vector of transactions eligible to be included in the ledger. This vector is sent by the head node to all trusted nodes. // e.g., std::vector <transaction>
   
-  
+  &nbsp;
 ![Tab2](https://d.radikal.ru/d32/1805/f7/db7b7ad1249d.jpg)
 
 ++Phase 4++  Once this vector is received, each trusted node verifies every transaction in respect of its ledger within this vector and generates, for example, std::map<transaction, bool>. After that each trusted node forwards this container to the remaining trusted nodes.
 ++Phase 5++ Accordingly, the first round of exchange between trusted nodes is followed by the generation of, e.g., std::map<node_id, std::map<transaction, bool> > at each trusted node. After that each trusted node forwards this container to all remaining trusted nodes, which constitutes the second round of exchange.
 ++Phase 6++ The second round of exchange is followed by the generation of the final decision tree at each trusted node. E.g., std::map<node_id, std::map<node_id, std::map<transaction, bool> > >. Each trusted node goes through this tree and determines the majority in respect of each transaction.
 
-
+&nbsp;
 ![Tab3](https://d.radikal.ru/d02/1805/b3/2b3217cab617.jpg)
 
 ++Phase 7++ The previous phase is followed by the generation of an approved only transaction vector at each trusted node, with the vector coinciding at each honest node. It is, in fact, a finished block to be recorded onto a ledger with trustworthy transactions only.
 
-
+&nbsp;
 ![Tab4](https://b.radikal.ru/b38/1805/9e/cff16c8d6161.jpg)
 
 *Protection against ledger recording by a malicious node*
