@@ -7,9 +7,6 @@ Each node of the network sends the last block hash available at this node to the
 
 
 
-
-
-
 ![Tab1](https://b.radikal.ru/b13/1805/64/3fea64a9d228.jpg)
 
 ++Phase 2.++ There can be *m* number of nodes participating in the transaction voting procedure in every round (trusted nodes and the head node). The node writing the last block generates the length list *n* of nodes with an updated ledger (outcome of Phase 1). The nodes *3m* are randomly selected from the nodes *n*. Then *m* number of nodes is randomly selected from these nodes *3m* , the first one is appointed as head node for the next round, and the remaining as trusted nodes for the next round.
