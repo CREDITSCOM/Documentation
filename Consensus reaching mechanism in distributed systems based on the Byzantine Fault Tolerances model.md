@@ -27,8 +27,8 @@ Each node of the network sends the last block hash available at this node to the
 **Phase 5** Accordingly, the first round of exchange between trusted nodes is followed by the generation of, e.g., std::map<node_id, std::map<transaction, bool> > at each trusted node. After that each trusted node forwards this container to all remaining trusted nodes, which constitutes the second round of exchange.
 &nbsp;
 **Phase 6** The second round of exchange is followed by the generation of the final decision tree at each trusted node. E.g., std::map<node_id, std::map<node_id, std::map<transaction, bool> > >. Each trusted node goes through this tree and determines the majority in respect of each transaction.
-&nbsp;
-&nbsp;
+
+
 ![Tab3](https://d.radikal.ru/d02/1805/b3/2b3217cab617.jpg)
 
 **Phase 7** The previous phase is followed by the generation of an approved only transaction vector at each trusted node, with the vector coinciding at each honest node. It is, in fact, a finished block to be recorded onto a ledger with trustworthy transactions only.
