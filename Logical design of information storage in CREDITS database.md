@@ -79,3 +79,5 @@ The hash value of a new pool is not available until digital signature is generat
 
 Accordingly, it can be observed that critical information concerning transactions is always saved in the CREDITS database that relies on the LevelDB storage principle. Storage management is arranged through a set of classes. Since the binary representation of stored data can vary according to version, the serialization method is used for change logging purposes. 
 
+Here you can find code update on GitHub
+https://github.com/CREDITSCOM/csdb
