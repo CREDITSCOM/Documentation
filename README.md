@@ -32,10 +32,15 @@ The platform is designed to create services for blockchain systems with high sec
 
 ### Resources
 [CREDITS Website](https://credits.com//)
+
 [Medium](https://medium.com/@credits)
+
 [Documentation](https://github.com/CREDITSCOM/DOCUMENTATION)
+
 [Whitepaper](https://github.com/CREDITSCOM/DOCUMENTATION/blob/master/WhitePaper%20CREDITS%20Eng.pdf)
+
 [Technical paper](https://github.com/CREDITSCOM/DOCUMENTATION/blob/master/TechnicalPaper%20CREDITS%20Eng.pdf)
 ### Community links
 [Official Telegram group](https://t.me/creditscom)
+
 [Official Twitter](https://twitter.com/creditscom)
