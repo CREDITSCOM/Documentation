@@ -25,7 +25,7 @@ The CREDITS platform is based on  a decentralized  peer-to-peer network. It oper
 * Cycles and schedules in smart contracts
 * Integration with external services using andvanced API
 
-### Developing tools
+### Development tools
 The platform is designed to create services for blockchain systems with high security performance and built decentralized applications for IOT and financial sphere and provides the following tools for developers:
 * Advanced API
 * SDK with supporting JVM(JAVA MACHINE)
