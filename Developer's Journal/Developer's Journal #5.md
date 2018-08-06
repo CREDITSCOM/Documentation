@@ -1,0 +1,8 @@
+![Dev's journal#5](https://cdn-images-1.medium.com/max/2000/1*v7Re65PspOSa2hFW7Lv5GQ.jpeg)
+# CREDITS software optimized for UNIX
+“Last week, our key objective was to launch a cross-platform version of our software,” says Eugeniy Butyaev, CTO & Co-Founder at CREDITS. “Initially, the CREDITS platform was developed for the Windows operating system and so it needed to be adapted to UNIX-like operating systems for their users. We’re now busy optimizing the code to adjust it for the use of .nix libraries and testing the potential for integrating devices based on these operating systems into our network. We’re facing some challenges while trying to accomplish this objective. For example, transport protocol and API platforms require a major revision.”
+Our developers have also started developing a file manager application for database operations. It is primarily used to meet the in-house needs of developers and, in fact, performs the same operations as platform monitor while offering somewhat broader functionality.
+
+Other launches include our branded plugin extensions for some browsers, such as Opera, Chrome and Mozilla. Downloading them will make it easy for you to track the price of one CS token. Clicking on the CREDITS icon in the top right-hand corner of your screen would be enough. Three pairs (CS/BTC, CS/ETH, CS/USD) and the coin growth rate expressed as a percentage will pop up.
+
+Find all the latest news from our developers on Eugeniy Butyaev’s Twitter — don’t miss out, subscribe now!
