@@ -1,0 +1,8 @@
+![Dev's journal#10](https://cdn-images-1.medium.com/max/1000/1*_x-O4uvzAPhmdMHvyWYSRA.jpeg)
+# Nodes synchronisation is 100% complete.
+“I’m delighted to announce that we have fully implemented the nodes synchronization, — says Eugeniy Butyaev, CTO & Co-Founder at CREDITS. — The database is now being replicated on each node. This is the final form of synchronization, and that is how it will function in the pre-release.
+The consensus based on dPoS+BFT is fully ready as well. The full description is now available on our GitHub page ”.
+
+As for the testing of pre-release, which we announced in the previous ninth edition of developer’s journal. Lots of testers have already answered our call. One hundred of applications have already been accepted. The testing will start on May, 11 and will last 4 weeks. We absolutely trust our community and testers, so no Non-Disclosure Agreements will be signed. If you want to join the test, send a request via mail to support@credits.com. Please describe why you are into blockchain, assess your knowledge of the technology, and summarize your expertise in testing. Please do tell us what exactly makes you interested in our project.
+
+During the testing, we are going to gather the maximum amount of information about the implementation of our software, perform a qualitative test on the network load in the first place, find and fix all possible bugs afterwards.
