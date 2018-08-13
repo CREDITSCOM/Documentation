@@ -41,9 +41,9 @@ The project develops the following modules for the platform:</p>
 
 <a href="Documentation" src="https://github.com/CREDITSCOM/DOCUMENTATION">Documentation</a>
 
-<a href="Whitepaper" src="https://github.com/CREDITSCOM/DOCUMENTATION/blob/master/WhitePaper%20CREDITS%20Eng.pdf">Whitepaper</a>
+<a href="Whitepaper" src="https://credits.com/Content/Docs/TechnicalWhitePaperCREDITSEng.pdf">Whitepaper</a>
 
-<a href="Technical paper" src="https://github.com/CREDITSCOM/DOCUMENTATION/blob/master/TechnicalPaper%20CREDITS%20Eng.pdf">Technical paper</a>
+<a href="Technical paper" src="https://credits.com/Content/Docs/TechnicalPaperENG.pdf">Technical paper</a>
 
 <a href="Developers portal" src="https://developers.credits.com/">Developers portal</a>
 
