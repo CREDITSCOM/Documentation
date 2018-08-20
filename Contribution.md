@@ -42,7 +42,7 @@ For major changes:
 <li> The commit must specify a file or package that will be modified.</li>
 </ol>
 <h2>Pull Request Process</h2>
-<ol style='1'
+<ol style='1'>
 <li>Fork the repo and create your branch from master</li>
 <li>If you've added code that should be tested, add tests</li>
 <li>Ensure the test suite passes</li>
