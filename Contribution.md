@@ -35,7 +35,7 @@ For major changes:
 <p>NOTE: When you provide the new feature for your CREDITS development team, you should understand that depending on the complexity, architecture, approach to implementation, review of your pull request may take a long time, as additional analysis by the development team may be required.</p>
 <h2> Code formating rules</h2>
 <p>Requirements to code:</p>
-<ol style='1'
+<ol style='1'>
 <li>Code must adhere  to the <a href="https://google.github.io/styleguide/">Google Style Guides</a></li>
 <li>Code must be well documented adhering the Google’s guidelines</li>
 <li>Please pay attention to testing. You will help to save time for developers and you accordingly</li>
