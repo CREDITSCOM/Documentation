@@ -36,7 +36,7 @@ For major changes:
 <h2> Code formating rules</h2>
 <p>Requirements to code:</p>
 <ol style='1'
-<li>Code must adhere to the<a href="https://google.github.io/styleguide/">Google Style Guides</a></li>
+<li>Code must adhere  to the<a href="https://google.github.io/styleguide/">Google Style Guides</a></li>
 <li>Code must be well documented adhering the Google’s guidelines</li>
 <li>Please pay attention to testing. You will help to save time for developers and you accordingly</li>
 <li> The commit must specify a file or package that will be modified.</li>
