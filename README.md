@@ -34,27 +34,52 @@ The project develops the following modules for the platform:</p>
 <li>SDK with supporting JVM(JAVA MACHINE)</li>
 </ul>
 <h3>Resources</h3>
+<style>
+ul.res {
+list-style: none;
+margin: 0;
+padding: 5px;
+margin-left: 0px;
+}
+ul.res li {
+padding: 5px;
 
-<a href="https://credits.com//">CREDITS Website</a>
+}
+</style>
+<ul class="res">
+<li><a href="https://credits.com//">CREDITS Website</a></li>
 
-<a href="https://medium.com/@credits">Medium</a>
+<li><a href="https://github.com/CREDITSCOM/DOCUMENTATION">Documentation</a></li>
 
-<a href="https://github.com/CREDITSCOM/DOCUMENTATION">Documentation</a>
+<li><a href="https://credits.com/Content/Docs/TechnicalWhitePaperCREDITSEng.pdf">Whitepaper</a></li>
 
-<a href="https://credits.com/Content/Docs/TechnicalWhitePaperCREDITSEng.pdf">Whitepaper</a>
+<li><a href="https://credits.com/Content/Docs/TechnicalPaperENG.pdf">Technical paper</a></li>
 
-<a href="https://credits.com/Content/Docs/TechnicalPaperENG.pdf">Technical paper</a>
+<li><a href="https://developers.credits.com/">Developers portal</a></li>
 
-<a href="https://developers.credits.com/">Developers portal</a>
-
-<a href="http://forum.credits.com/">Credits forum</a>
-
+<li><a href="http://forum.credits.com/">Credits forum</a></li>
+</ul>
 <h3>Community links</h3>
-
-<a href="https://t.me/creditscom">Official Telegram group</a>
-
-<a href="https://twitter.com/creditscom">Official Twitter</a>
-
-<a href="https://www.reddit.com/r/CreditsOfficial/">Reddit</a>
+<style>
+    ul.comm {
+    margin: 0;
+    padding: 4px;
+   }
+   ul.comm li {
+    display: inline;
+    margin-right: 5px;
+    padding: 3px;
+   }
+  </style>
+<ul class="comm">
+   <li><a href="https://t.me/creditscom"><img src ="https://simpleicons.org/icons/telegram.svg" height=40 widht=40 ></a></li>
+   <li><a href="https://twitter.com/creditscom"><img src ="https://simpleicons.org/icons/twitter.svg" height=40 widht=40 ></a></li>
+   <li><a href="https://www.reddit.com/r/CreditsOfficial/"><img src ="https://simpleicons.org/icons/reddit.svg" height=40 widht=40></a> </li>
+   <li><a href="https://medium.com/@credits"><img src="https://simpleicons.org/icons/medium.svg" height=40 widht=40></a></li>
+   <li><a href="https://www.instagram.com/credits_com/"><img src="https://simpleicons.org/icons/facebook.svg" height=40 widht=40></a></li>
+   <li><a href="https://www.facebook.com/creditscom"><img src="https://simpleicons.org/icons/instagram.svg" height=40 widht=40></a>
+   </li>
+   <li><a href="https://www.youtube.com/channel/UC7kjX_jgauCqmf_a4fqLGOQ"><img src="https://simpleicons.org/icons/youtube.svg" height=40 widht=40></a>
+   </li>
 
 
