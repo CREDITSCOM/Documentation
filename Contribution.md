@@ -47,6 +47,7 @@ For major changes:
 <li>If you've added code that should be tested, add tests</li>
 <li>Ensure the test suite passes</li>
 <li>Make a pull request</li>
+</ol>
 <h2>General rules of conduct between contributors</h2>
 <ul>
 <li>Be polite in your statements</li>
