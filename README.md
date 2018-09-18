@@ -9,6 +9,7 @@ The project develops the following modules for the platform:</p>
 <li>CS Web Wallet</li>
 <li>CS API</li>
 <li>CS Monitor</li>
+</ol>
 <h2>Main features of CREDITS platform</h2>
 <ul>
 <li>High transaction speed(1 mln transaction per second)</li>
