@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/CREDITSCOM/Documentation/master/Src/Logo_Credits_horizontal_black.png align="center">
+<img src="https://raw.githubusercontent.com/CREDITSCOM/Documentation/master/Src/Logo_Credits_horizontal_black.png align="center">"
 <h2>What is CREDITS?</h2>
 <p>Welcome to our source code repository! CREDITS is an open blockchain platform with autonomous smart contracts and an internal cryptocurrency with the possibility of wide scaling. 
 The CREDITS platform is based on  a decentralized  peer-to-peer network. It operates through the Internet and uses the TCP/IP network model as the principal model for intra-network data and command transfer. The high performance is provided by using the unique consensus algorithm(DPOS+BFT) and developing on C/C++ programming language. All data transfers to and from network use the UDP transport layer protocol of the network model, and high-performance NoSQL system is the storage concept employed for key-value data storage.
